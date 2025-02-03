@@ -1,0 +1,1 @@
+#Esse código é para deixar registrado que eu consegui fazer uma automação de login com sucesso e sem sucesso.
